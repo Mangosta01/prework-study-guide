@@ -8,7 +8,7 @@ This prework study guided was created to allow student of the EDX Skills for Lif
 
 ##Installation
 
-N/A
+Only require an  Internet Connection
 
 ##Usage
 
@@ -16,8 +16,8 @@ To use this Prework Study Guide, you can review the notes in each asectiuon. For
 
 ##Credits
 
-N/A
+The World
 
 ##License
 
-MIT License
+MIT Licensesgit
