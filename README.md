@@ -1,4 +1,4 @@
-# prework-study-guide webpage
+# Prework Study Guide Webpage
 
 Bootcamp Prework Study Guide For Students
 
