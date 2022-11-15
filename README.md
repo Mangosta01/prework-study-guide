@@ -20,4 +20,4 @@ The World
 
 ##License
 
-MIT Licensesgit
+MIT License
