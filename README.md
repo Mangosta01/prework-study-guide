@@ -5,6 +5,7 @@ Bootcamp Prework Study Guide For Students
 ##Description
 
 This prework study guide was created to allow student of the EDX Skills for Life Bootcamp to publish useful notes on HTML, CSS, Git and JavaScript.
+Visit here: https://mangosta01.github.io/prework-study-guide/
 
 ##Installation
 
