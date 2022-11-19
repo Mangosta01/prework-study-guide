@@ -9,7 +9,7 @@ Visit here: https://mangosta01.github.io/prework-study-guide/
 
 ##Installation
 
-Requires an  Internet Connection.
+N/A
 
 ##Usage
 
@@ -17,7 +17,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ##Credits
 
-Mangosta01
+N/A
 
 ##License
 
