@@ -2,23 +2,23 @@
 
 Bootcamp Prework Study Guide For Students
 
-##Description
+## Description
 
 This prework study guide was created to allow student of the EDX Skills for Life Bootcamp to publish useful notes on HTML, CSS, Git and JavaScript.
 Visit here: https://mangosta01.github.io/prework-study-guide/
 
-##Installation
+## Installation
 
 N/A
 
-##Usage
+## Usage
 
 To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
-##Credits
+## Credits
 
 N/A
 
-##License
+## License
 
 MIT License
